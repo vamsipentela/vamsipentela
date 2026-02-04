@@ -16,7 +16,4 @@ I’m a frontend developer who enjoys making clean and good-looking UIs… and y
 ![](https://nirzak-streak-stats.vercel.app/?user=vamsipentela&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vamsipentela&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=vamsipentela&icon=4&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
