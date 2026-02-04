@@ -11,6 +11,15 @@ I’m a frontend developer who enjoys making clean and good-looking UIs… and y
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/express.js-000000?style=flat&logo=express&logoColor=white)
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
+ # LeetCode(Java)
+<a href="https://leetcode.com/vamsipentela/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-vamsipentela-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a>
+
+<br/><br/>
+
+💡 Solving DSA problems using Java to improve logic, efficiency, and consistency — one bug at a time.
+
+</div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vamsipentela&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=vamsipentela&theme=transparent&hide_border=false)<br/>
